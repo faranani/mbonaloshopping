@@ -1,0 +1,106 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Classic White T-Shirt",
+            "category": "Men's Clothing",
+            "price": 29.99,
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=600&fit=crop",
+            "description": "Essential cotton t-shirt with a modern fit. Made from 100% organic cotton for ultimate comfort.",
+            "rating": 4.5,
+            "stock": 50
+        },
+        {
+            "id": 2,
+            "name": "Floral Summer Dress",
+            "category": "Women's Clothing",
+            "price": 59.99,
+            "image": "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800&h=600&fit=crop",
+            "description": "Light and breezy floral dress perfect for summer. Features a flattering A-line silhouette.",
+            "rating": 4.8,
+            "stock": 30
+        },
+        {
+            "id": 3,
+            "name": "Smart Watch Pro",
+            "category": "Wearables",
+            "price": 199.99,
+            "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop",
+            "description": "Advanced smartwatch with health tracking features and long battery life.",
+            "rating": 4.7,
+            "stock": 25
+        },
+        {
+            "id": 4,
+            "name": "Ultra HD Smartphone",
+            "category": "Smartphones",
+            "price": 799.99,
+            "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=600&fit=crop",
+            "description": "Latest smartphone with 5G capability and advanced camera system.",
+            "rating": 4.9,
+            "stock": 15
+        },
+        {
+            "id": 5,
+            "name": "Denim Jacket",
+            "category": "Men's Clothing",
+            "price": 79.99,
+            "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800&h=600&fit=crop",
+            "description": "Classic denim jacket with modern fit and comfortable stretch fabric.",
+            "rating": 4.6,
+            "stock": 40
+        },
+        {
+            "id": 6,
+            "name": "Leather Handbag",
+            "category": "Women's Clothing",
+            "price": 129.99,
+            "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=800&h=600&fit=crop",
+            "description": "Elegant leather handbag with multiple compartments and adjustable strap.",
+            "rating": 4.7,
+            "stock": 20
+        },
+        {
+            "id": 7,
+            "name": "Fitness Tracker",
+            "category": "Wearables",
+            "price": 89.99,
+            "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop",
+            "description": "Water-resistant fitness tracker with heart rate monitoring and sleep tracking.",
+            "rating": 4.5,
+            "stock": 45
+        },
+        {
+            "id": 8,
+            "name": "Budget Smartphone",
+            "category": "Smartphones",
+            "price": 299.99,
+            "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=600&fit=crop",
+            "description": "Affordable smartphone with great performance and long battery life.",
+            "rating": 4.4,
+            "stock": 35
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Men's Clothing",
+            "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800&h=600&fit=crop"
+        },
+        {
+            "id": 2,
+            "name": "Women's Clothing",
+            "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=800&h=600&fit=crop"
+        },
+        {
+            "id": 3,
+            "name": "Smartphones",
+            "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=600&fit=crop"
+        },
+        {
+            "id": 4,
+            "name": "Wearables",
+            "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop"
+        }
+    ]
+} 
